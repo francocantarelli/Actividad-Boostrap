@@ -1,0 +1,11 @@
+p {
+    display: inline-block;
+    background-color: #d8d8d8cb;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+
+.carousel-inner .carousel-item p {
+    background-color: transparent;
+}
